@@ -1,0 +1,2 @@
+1. Adding firebase to android
+3. to web
